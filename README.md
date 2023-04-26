@@ -10,3 +10,9 @@ User interface design with CSS and Material UI component library
 
 Server: NodeJS, ExpressJS, data was stored in a MongoDB database
 
+# How to use this repository
+
+Fork and clone
+
+Setup: npm install && npm run dev
+
